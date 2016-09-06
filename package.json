@@ -26,7 +26,7 @@
   "dependencies": {
     "balanced-match": "^0.2.0",
     "postcss": "^5.0.0",
-    "postcss-selector-matches": "^2.0.0"
+    "postcss-selector-matches": "^2.0.3"
   },
   "devDependencies": {
     "babel": "^5.5.8",
